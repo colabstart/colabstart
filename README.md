@@ -26,6 +26,11 @@ const x = "Block code snippet in JS";
 console.log(x);
 ```
 
+| Left Align (default) | Center Align | Right Align |
+| :------------------- | :----------: | ----------: |
+| React.js             | Node.js      | MySQL       |
+| Next.js              | Express      | MongoDB     |
+| Vue.js               | Nest.js      | Redis       |
 
 <!--
 **colabstart/colabstart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
