@@ -21,6 +21,12 @@
 print(10)
 ```
 
+```js
+const x = "Block code snippet in JS";
+console.log(x);
+```
+
+
 <!--
 **colabstart/colabstart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
