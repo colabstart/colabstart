@@ -15,6 +15,11 @@
     <img src="https://github.com/LDJWJ/OpenAIGPTForPythonDevelopersFiles/blob/main/image/bookcover_01.png" width=300 height=300>
 </figure>
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <path d="..." />
+</svg>
+
+
 <img src='https://raw.githubusercontent.com/colabstart/img_src/f62a743f300c08a0029057cbda91658ee9543b05/apple.svg' width=30 height=30>
 
 <!--
