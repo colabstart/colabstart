@@ -16,7 +16,7 @@
 </figure>
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
-  <path d="..." />
+  <path d="https://raw.githubusercontent.com/colabstart/img_src/06c1d8e820cd89388cfbfdee4ec440247b57db50/react.svg" />
 </svg>
 
 
