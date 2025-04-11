@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src='https://raw.githubusercontent.com/colabstart/img_src/f62a743f300c08a0029057cbda91658ee9543b05/apple.svg'>
+
 <!--
 **colabstart/colabstart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
