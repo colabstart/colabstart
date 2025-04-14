@@ -37,9 +37,6 @@ print(10)
 | Vue.js               | Nest.js      | Redis       |
 
 
-
-## Hi there 👋
-
 ## colabstart's의 흔적
 
 ## [책] 데이터가 뛰어노는 AI 놀이터, 캐글
